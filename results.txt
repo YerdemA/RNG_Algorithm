@@ -1,0 +1,10 @@
+--- Rastgele Sayı Üreteci Başlatıldı (Hedef: 100 bit) ---
+
+Üretilen Dizi:
+1010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+
+--- İstatistiksel Kalite Analizi ---
+Toplam 0 Sayısı: 50
+Toplam 1 Sayısı: 50
+Oran (0/1): 1.00 (1.00'a ne kadar yakınsa o kadar dengeli)
+SONUÇ: İstatistiksel kalite özellikleri başarılı. Dağılım dengeli.
